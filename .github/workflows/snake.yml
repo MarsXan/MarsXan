@@ -1,7 +1,7 @@
 name: 🐍 Generate GitHub Contribution Snake
 on:
   schedule:
-    - cron: '0 */6 * * *'     # runs every 6 hours
+    - cron: "0 18 * * *"   # daily at 18:00 UTC
   workflow_dispatch:
 
 permissions:
