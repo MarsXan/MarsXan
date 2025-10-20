@@ -56,3 +56,4 @@ I'm a Mobile Development Lead and Backend Developer dedicated to building high-p
 ---
 
 Thanks for stopping by! Feel free to explore my repositories or connect for collaboration!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
