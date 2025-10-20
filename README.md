@@ -50,5 +50,7 @@ I'm a Mobile Development Lead and Backend Developer dedicated to building high-p
 - **Stack Overflow**: [Mohsen Mokhtari](https://stackoverflow.com/users/5892896/mohsen-mokhtari)
 
 ---
+### 😎 My Contributions
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
 
 Thanks for stopping by! Feel free to explore my repositories or connect for collaboration!
