@@ -51,6 +51,13 @@ I'm a Mobile Development Lead and Backend Developer dedicated to building high-p
 
 ---
 ### 😎 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
+</picture>
+
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
 
 ---
