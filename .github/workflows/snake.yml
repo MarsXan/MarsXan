@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config user.name  "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name  "Mohsen"
+          git config user.email "mr.marsxan@gmail.com"
           git add dist/*
           git commit -m "feat: update snake game" || echo "No changes to commit"
           git push
