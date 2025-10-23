@@ -22,8 +22,8 @@ jobs:
 
       - name: Commit & Push generated SVGs
         run: |
-          git config user.name  "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name  "Mohsen"
+          git config user.email "mr.marsxan@gmail.com"
           git add profile-3d-contrib/*.svg
           git commit -m "feat: update 3D graph default" || exit 0
           git push
